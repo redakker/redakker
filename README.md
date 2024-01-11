@@ -1,5 +1,5 @@
-### Hi there, I'm <a href="https://www.redman.hu" target="_blank">Ákos Vörös</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
-##### Glad to see you here!
+Hi there, I'm <a href="https://www.redman.hu" target="_blank">Ákos Vörös</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+Glad to see you here!
 
 I'm an IT Engineer (⚡) and a Tech Enthusiast (💻) from Hungary.
 
